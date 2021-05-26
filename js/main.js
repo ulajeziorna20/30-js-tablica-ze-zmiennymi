@@ -6,3 +6,5 @@ let three = 3;
 
 let array = [one, two, three];
 
+console.log(array);
+
